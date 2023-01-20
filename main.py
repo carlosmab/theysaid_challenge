@@ -1,4 +1,3 @@
-import time
 from src.count_schools import print_counts, get_data_from_csv_file
 from src.school_search import search_schools
 
